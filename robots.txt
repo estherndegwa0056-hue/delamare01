@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /README.md
+Disallow: /IMAGE_QUALITY_GUIDE.md
+Disallow: /IMAGE_REPLACEMENT_GUIDE.md
+
+

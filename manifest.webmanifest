@@ -1,0 +1,18 @@
+{
+  "name": "Delamare Farm Kenya",
+  "short_name": "Delamare Farm",
+  "description": "Dairy livestock, animal feeds, chicks and farm services for farmers in Kenya.",
+  "lang": "en-KE",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#1d5527",
+  "background_color": "#f7f8f4",
+  "icons": [
+    {
+      "src": "assets/site-images/delamare-favicon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
